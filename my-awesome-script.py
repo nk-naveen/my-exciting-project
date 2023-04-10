@@ -1,4 +1,4 @@
 #!/bin/python
-<<<<<<< HEAD
-print('Howdy, World!')
->>>>>>> feature/enhancement-2
+
+print('Hello! World!, We are one')
+
